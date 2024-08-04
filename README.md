@@ -1,6 +1,6 @@
 # Concurrency by Tutorials: Materials
 
-This repo contains all the downloadable materials and projects associated with the **[Concurrency by Tutorials](https://www.kodeco.com/products/concurrency-by-tutorials)** from [Kodeco](https://www.kodeco.com).
+This repo contains all the downloadable materials and projects associated with the **[Concurrency by Tutorials](https://www.kodeco.com/books/concurrency-by-tutorials)** from [Kodeco](https://www.kodeco.com).
 
 Each edition has its own branch, named `editions/[EDITION]`. The default branch for this repo is for the most recent edition.
 
